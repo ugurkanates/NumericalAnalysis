@@ -1,6 +1,6 @@
 # NumericalAnalysis
 Homeworks for NumericalAnalysis class
-This Folder contains stuff and homeworks/solutions about CSE Numerical Analysis Mat 244
+This Folder contains stuff and homeworks/solutions about CSE Numerical Analysis Mat 214
 
 Those are all 3 homework and demos for entire semester of class.
 
